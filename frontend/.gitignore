@@ -1,0 +1,39 @@
+# Node/Bun environment
+node_modules/
+bun.lockb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Compiled source
+dist/
+build/
+*.tsbuildinfo
+
+# Bun runtime cache (if used)
+.bun/
+
+# Env files
+.env
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# macOS files
+.AppleDouble
+.LSOverride
+
+# Windows
+ehthumbs.db
+Desktop.ini
+
+# Others
+.idea/
+*.swp
